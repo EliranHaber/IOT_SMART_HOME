@@ -4,7 +4,8 @@ A comprehensive IoT smart home monitoring system with sensor emulators, data man
 
 ## Demo
 
-- 🎥 [Demo Video (YouTube)]()
+- 🎥 [Demo Video (YouTube)](https://www.youtube.com/watch?v=3OuBLm_TCl4)
+- 📄 [Project Presentation (Canva)](https://www.canva.com/design/DAGyMcfNLYw/bGa1LOjLZwyCaAUpTRBlLQ/edit?utm_content=DAGyMcfNLYw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Features
 
